@@ -64,11 +64,11 @@
                         </div>
                 </div>
                
-               
+               <div class = "container">
                <center><h1>Oops Somthing Went Wrong!</h1>
                        <p>Please old on while we fix that.</p>
                </center> 
-                
+               </div>
                
                        
        
